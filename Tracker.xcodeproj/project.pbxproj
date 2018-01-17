@@ -15,6 +15,7 @@
 		210F0339200F6DA9003065B5 /* run@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 210F0336200F6DA8003065B5 /* run@3x.png */; };
 		210F033A200F6DA9003065B5 /* run@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 210F0337200F6DA8003065B5 /* run@2x.png */; };
 		210F033B200F6DA9003065B5 /* run.png in Resources */ = {isa = PBXBuildFile; fileRef = 210F0338200F6DA8003065B5 /* run.png */; };
+		210F033D200F743E003065B5 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 210F033C200F743D003065B5 /* logo.png */; };
 		21633511200E12A60066C813 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 21633510200E12A60066C813 /* AppDelegate.m */; };
 		21633517200E12A60066C813 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21633515200E12A60066C813 /* Main.storyboard */; };
 		21633519200E12A60066C813 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21633518200E12A60066C813 /* Assets.xcassets */; };
@@ -101,6 +102,7 @@
 		210F0336200F6DA8003065B5 /* run@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "run@3x.png"; sourceTree = "<group>"; };
 		210F0337200F6DA8003065B5 /* run@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "run@2x.png"; sourceTree = "<group>"; };
 		210F0338200F6DA8003065B5 /* run.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run.png; sourceTree = "<group>"; };
+		210F033C200F743D003065B5 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		2163350C200E12A60066C813 /* Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2163350F200E12A60066C813 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		21633510200E12A60066C813 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -266,6 +268,7 @@
 		21633550200E228C0066C813 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				210F033C200F743D003065B5 /* logo.png */,
 				210F0338200F6DA8003065B5 /* run.png */,
 				210F0337200F6DA8003065B5 /* run@2x.png */,
 				210F0336200F6DA8003065B5 /* run@3x.png */,
@@ -433,6 +436,7 @@
 			files = (
 				21633582200E229B0066C813 /* fb_tracker@3x.png in Resources */,
 				2163359E200E35970066C813 /* menu@2x.png in Resources */,
+				210F033D200F743E003065B5 /* logo.png in Resources */,
 				2163357A200E229B0066C813 /* finish@2x.png in Resources */,
 				21633584200E229B0066C813 /* fbw_new@2x.png in Resources */,
 				210F033A200F6DA9003065B5 /* run@2x.png in Resources */,
